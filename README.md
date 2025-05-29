@@ -67,6 +67,10 @@
 
 A tutorial project demonstrating how to fetch data from an API, display it dynamically using DOM manipulation, and implement filtering functionality.
 
+🌐 [Check the demo](https://mrkevler.github.io/js-api-dom-tutorial_fetch_display_filter/)
+
+
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black)
 ![API](https://img.shields.io/badge/API-REST-FF6C37)
 ![DOM](https://img.shields.io/badge/DOM-Manipulation-149EF1)
@@ -76,6 +80,20 @@ A tutorial project demonstrating how to fetch data from an API, display it dynam
 [![Buy Me a Coffee](https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-yellow)](https://buymeacoffee.com/mrkevler)
 
 ---
+
+### [HTML-CSS Sample Site by KEVLER 🌐](https://github.com/mrkevler/html-css-sample-site)
+A simple and responsive multi-section website built with pure HTML and CSS. Perfect as a starter template or for educational purposes.
+
+🌐 [Check the demo](https://mrkevler.github.io/html-css-sample-site/)
+
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![Google Fonts](https://img.shields.io/badge/Google%20Fonts-Open%20Sans-4285F4?logo=googlefonts&logoColor=white)
+![License](https://img.shields.io/badge/License-CC%20BY--NC-blue)
+![Repo Size](https://img.shields.io/github/repo-size/mrkevler/html-css-sample-site)
+![Last Commit](https://img.shields.io/github/last-commit/mrkevler/html-css-sample-site)
+[![Buy Me a Coffee](https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-yellow)](https://buymeacoffee.com/mrkevler)
 
 ## 🚀 Let's Collaborate
 
