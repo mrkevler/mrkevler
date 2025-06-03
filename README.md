@@ -1,5 +1,6 @@
-# 👋 Hi, I'm Bartosz Sergot
+# 👋 Hi, I'm 
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A259FF&center=false&vCenter=false&width=435&lines=Bartosz+Sergot" alt="Bartosz Sergot"  />
 
 **Full-Stack Web & Python Developer | Prompt Engineer | DevSecOps | Admin**
 
@@ -82,17 +83,26 @@
 ---
 
 ## 📫 Contact Me
-
-- 🌐 Website: [bartoszsergot.com](https://bartoszsergot.com)
-- 📧 Email: [info@bartoszsergot.com](mailto:info@bartoszsergot.com)
-- 📱 Phone (PL): +48 666 897 499
-- 📱 Phone (DE): +49 176 41 888 612
-- 💬 Telegram: [@mrkevler](https://t.me/mrkevler)
-- 🎨 Dribbble: [kevler](https://dribbble.com/kevler)
-- 🔗 LinkedIn: [Bartosz Sergot](https://www.linkedin.com/in/bartosz-sergot/)
-
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrkevler&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<table>
+  <tr>
+    <td>
+<ul>
+  <li>🌐 <strong>Website</strong>: <a href="https://bartoszsergot.com">bartoszsergot.com</a></li>
+  <li>📧 <strong>Email</strong>: <a href="mailto:info@bartoszsergot.com">info@bartoszsergot.com</a></li>
+  <li>📱 <strong>Phone (PL)</strong>: +48 666 897 499</li>
+  <li>📱 <strong>Phone (DE)</strong>: +49 176 41 888 612</li>
+  <li>💬 <strong>Telegram</strong>: <a href="https://t.me/mrkevler">@mrkevler</a></li>
+  <li>🎨 <strong>Dribbble</strong>: <a href="https://dribbble.com/kevler">kevler</a></li>
+  <li>🔗 <strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/bartosz-sergot/">Bartosz Sergot</a></li>
+</ul>
+</td>
+<td>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrkevler&show_icons=true&count_private=true" />
+</a>
+</td>
+  </tr>
+</table>
 
 ---
 
