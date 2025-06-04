@@ -1,6 +1,7 @@
 # 👋 Hi, I'm 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A259FF&center=false&vCenter=false&width=435&lines=Bartosz+Sergot" alt="Bartosz Sergot"  />
+
 **Full-Stack Web & Python Developer | Prompt Engineer | DevSecOps | Admin**
 
 
