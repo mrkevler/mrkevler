@@ -178,7 +178,7 @@ Interactive multi-section website built with HTML, CSS and JavaScript. Features:
 ---
 
 ### [Sample Landing Page 💫](https://github.com/mrkevler/sample-landing-page)
-This is a sample landing page built with HTML, CSS and JavaScript with responsive design, featuring landing page, signup and signin forms.
+This is a sample landing page built with HTML, CSS and JavaScript. It contains a responsive design, verical navigation bar, featuring landing page, signup and signin forms.
 
 🌐 [Check the demo](https://mrkevler.github.io/sample-landing-page/)
 
