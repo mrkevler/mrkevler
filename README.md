@@ -116,6 +116,83 @@ I'm always open to new challenges and collaborations. Whether you're looking for
 
 ## 📂 Featured Project
 
+### [Tailwind CSS Demo Project 💫](https://github.com/mrkevler/tailwind-css-demo-project)
+Modern landing page built with HTML, Tailwind CSS and JavaScript. Features: utility-first CSS approach, responsive grid layouts, smooth scrolling navigation and interactive form validation.
+
+🌐 [Check the demo](https://mrkevler.github.io/tailwind-css-demo-project/)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![License](https://img.shields.io/badge/License-CC%20BY--NC-blue)
+![Repo Size](https://img.shields.io/github/repo-size/mrkevler/tailwind-css-demo-project)
+![Last Commit](https://img.shields.io/github/last-commit/mrkevler/tailwind-css-demo-project)
+[![Buy Me a Coffee](https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-yellow)](https://buymeacoffee.com/mrkevler)
+
+---
+
+### [HTML Sample Forms Tutorial 💫](https://github.com/mrkevler/html-sample-forms-tutorial)
+Interactive forms collection showcasing modern form design patterns built with HTML5, CSS3 and JavaScript. Features: 4 different form types with comprehensive validation and responsive design.
+
+🌐 [Check the demo](https://mrkevler.github.io/html-sample-forms-tutorial/)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![License](https://img.shields.io/badge/License-CC%20BY--NC-blue)
+![Repo Size](https://img.shields.io/github/repo-size/mrkevler/html-sample-forms-tutorial)
+![Last Commit](https://img.shields.io/github/last-commit/mrkevler/html-sample-forms-tutorial)
+[![Buy Me a Coffee](https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-yellow)](https://buymeacoffee.com/mrkevler)
+
+---
+
+### [HTML-CSS Sample Site 🌐](https://github.com/mrkevler/html-css-sample-site)
+A simple and responsive multi-section website built with pure HTML and CSS. Perfect as a starter template or for educational purposes.
+
+🌐 [Check the demo](https://mrkevler.github.io/html-css-sample-site/)
+
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![Google Fonts](https://img.shields.io/badge/Google%20Fonts-Open%20Sans-4285F4?logo=googlefonts&logoColor=white)
+![License](https://img.shields.io/badge/License-CC%20BY--NC-blue)
+![Repo Size](https://img.shields.io/github/repo-size/mrkevler/html-css-sample-site)
+![Last Commit](https://img.shields.io/github/last-commit/mrkevler/html-css-sample-site)
+[![Buy Me a Coffee](https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-yellow)](https://buymeacoffee.com/mrkevler)
+
+---
+
+### [HTML-CSS-JS Sample Site 💫](https://github.com/mrkevler/html-css-js-sample-site)
+Interactive multi-section website built with HTML, CSS and JavaScript. Features: advanced slider functionality, touch support and modern animations.
+
+🌐 [Check the demo](https://mrkevler.github.io/html-css-js-sample-site/)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![License](https://img.shields.io/badge/License-CC%20BY--NC-blue)
+![Repo Size](https://img.shields.io/github/repo-size/mrkevler/html-css-js-sample-site)
+![Last Commit](https://img.shields.io/github/last-commit/mrkevler/html-css-js-sample-site)
+[![Buy Me a Coffee](https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-yellow)](https://buymeacoffee.com/mrkevler)
+
+---
+
+### [Sample Landing Page 💫](https://github.com/mrkevler/sample-landing-page)
+This is a sample landing page built with HTML, CSS and JavaScript with responsive design, featuring landing page, signup and signin forms.
+
+🌐 [Check the demo](https://mrkevler.github.io/sample-landing-page/)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Responsive](https://img.shields.io/badge/Responsive-Mobile%20First-1DB954)
+![License](https://img.shields.io/badge/License-CC%20BY--NC-blue)
+![Repo Size](https://img.shields.io/github/repo-size/mrkevler/sample-landing-page)
+![Last Commit](https://img.shields.io/github/last-commit/mrkevler/sample-landing-page)
+[![Buy Me a Coffee](https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-yellow)](https://buymeacoffee.com/mrkevler)
+
+---
+
 ### [JS API DOM Tutorial - Fetch, Display and Filter 🚀](https://github.com/mrkevler/js-api-dom-tutorial_fetch_display_filter)
 
 A tutorial project demonstrating how to fetch data from an API, display it dynamically using DOM manipulation, and implement filtering functionality.
@@ -132,68 +209,5 @@ A tutorial project demonstrating how to fetch data from an API, display it dynam
 [![Buy Me a Coffee](https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-yellow)](https://buymeacoffee.com/mrkevler)
 
 ---
-
-### [HTML-CSS Sample Site by KEVLER 🌐](https://github.com/mrkevler/html-css-sample-site)
-A simple and responsive multi-section website built with pure HTML and CSS. Perfect as a starter template or for educational purposes.
-
-🌐 [Check the demo](https://mrkevler.github.io/html-css-sample-site/)
-
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![Google Fonts](https://img.shields.io/badge/Google%20Fonts-Open%20Sans-4285F4?logo=googlefonts&logoColor=white)
-![License](https://img.shields.io/badge/License-CC%20BY--NC-blue)
-![Repo Size](https://img.shields.io/github/repo-size/mrkevler/html-css-sample-site)
-![Last Commit](https://img.shields.io/github/last-commit/mrkevler/html-css-sample-site)
-[![Buy Me a Coffee](https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-yellow)](https://buymeacoffee.com/mrkevler)
-
----
-
-### [HTML-CSS-JS Sample Site by mrKevler 💫](https://github.com/mrkevler/html-css-js-sample-site)
-Interactive multi-section website built with HTML, CSS and JavaScript. Features: advanced slider functionality, touch support and modern animations.
-
-🌐 [Check the demo](https://mrkevler.github.io/html-css-js-sample-site/)
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![License](https://img.shields.io/badge/License-CC%20BY--NC-blue)
-![Repo Size](https://img.shields.io/github/repo-size/mrkevler/html-css-js-sample-site)
-![Last Commit](https://img.shields.io/github/last-commit/mrkevler/html-css-js-sample-site)
-[![Buy Me a Coffee](https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-yellow)](https://buymeacoffee.com/mrkevler)
-
----
-
-### [Sample Landing Page by mrKevler 💫](https://github.com/mrkevler/sample-landing-page)
-This is a sample landing page built with HTML, CSS and JavaScript with responsive design, featuring landing page, signup and signin forms.
-
-🌐 [Check the demo](https://mrkevler.github.io/sample-landing-page/)
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Responsive](https://img.shields.io/badge/Responsive-Mobile%20First-1DB954)
-![License](https://img.shields.io/badge/License-CC%20BY--NC-blue)
-![Repo Size](https://img.shields.io/github/repo-size/mrkevler/sample-landing-page)
-![Last Commit](https://img.shields.io/github/last-commit/mrkevler/sample-landing-page)
-[![Buy Me a Coffee](https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-yellow)](https://buymeacoffee.com/mrkevler)
-
----
-
-### [HTML Sample Forms Tutorial by mrKevler 💫](https://github.com/mrkevler/html-sample-forms-tutorial)
-Interactive forms collection showcasing modern form design patterns built with HTML5, CSS3 and JavaScript. Features: 4 different form types with comprehensive validation and responsive design.
-
-🌐 [Check the demo](https://mrkevler.github.io/html-sample-forms-tutorial/)
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![License](https://img.shields.io/badge/License-CC%20BY--NC-blue)
-![Repo Size](https://img.shields.io/github/repo-size/mrkevler/html-sample-forms-tutorial)
-![Last Commit](https://img.shields.io/github/last-commit/mrkevler/html-sample-forms-tutorial)
-[![Buy Me a Coffee](https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-yellow)](https://buymeacoffee.com/mrkevler)
-
----
-
 
 
