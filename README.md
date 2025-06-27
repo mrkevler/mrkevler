@@ -116,6 +116,22 @@ I'm always open to new challenges and collaborations. Whether you're looking for
 
 ## 📂 Featured Project
 
+### [Fullstack Auth Kit 💫](https://github.com/mrkevler/fullstack-auth-kit)
+Modern full-stack authentication starter featuring JWT + GitHub OAuth 2.0. Built with React 19, Express.js 5, MongoDB 8 and Docker. Includes secure user registration, social login integration, responsive UI with Tailwind CSS 4 and production-ready monorepo architecture.
+
+🌐 [Demo soon](#)
+
+![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-5-000000?logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-8-47A248?logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?logo=docker&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-blue)
+![Repo Size](https://img.shields.io/github/repo-size/mrkevler/fullstack-auth-kit)
+![Last Commit](https://img.shields.io/github/last-commit/mrkevler/fullstack-auth-kit)
+[![Buy Me a Coffee](https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-yellow)](https://buymeacoffee.com/mrkevler)
+
+---
+
 ### [Tailwind CSS Demo Project 💫](https://github.com/mrkevler/tailwind-css-demo-project)
 Modern landing page built with HTML, Tailwind CSS and JavaScript. Features: utility-first CSS approach, responsive grid layouts, smooth scrolling navigation and interactive form validation.
 
