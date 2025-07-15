@@ -113,10 +113,10 @@ I'm always open to new challenges and collaborations. Whether you're looking for
 
 ## 📂 Featured Project
 
-### [Learningoo 🦩](https://github.com/mrkevler/learningoo)
+### [Learningoo 🦩](https://github.com/mrkevler/learningoo) *(in development)*
 Modern full-stack online course platform built as a monorepo with React 18, Express.js 5, MongoDB 7 and TypeScript. Complete Learning Management System featuring course creation & management, rich content editor with drag-and-drop lesson builder, tiered licensing system, credit-based payment transactions, admin dashboard with analytics and multi-role support for students, tutors and administrator.
 
-🌐 [Demo](https://learningoo.vercel.app) *(in development)*
+🌐 [Check the demo](https://learningoo.vercel.app) 
 
 ![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-5-000000?logo=express&logoColor=white)
