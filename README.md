@@ -113,6 +113,54 @@ I'm always open to new challenges and collaborations. Whether you're looking for
 
 ## 📂 Featured Project
 
+### [Learningoo 🦩](https://github.com/mrkevler/learningoo)
+Modern full-stack online course platform built as a monorepo with React 18, Express.js 5, MongoDB 7 and TypeScript. Complete Learning Management System featuring course creation & management, rich content editor with drag-and-drop lesson builder, tiered licensing system, credit-based payment transactions, admin dashboard with analytics and multi-role support for students, tutors and administrator.
+
+🌐 [Demo](https://learningoo.vercel.app) *(in development)*
+
+![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-5-000000?logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-7-47A248?logo=mongodb&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6?logo=typescript&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-blue)
+![Repo Size](https://img.shields.io/github/repo-size/mrkevler/learningoo)
+![Last Commit](https://img.shields.io/github/last-commit/mrkevler/learningoo)
+[![Buy Me a Coffee](https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-yellow)](https://buymeacoffee.com/mrkevler)
+
+---
+
+### [CodeDock UI Boilerplate 💫](https://github.com/mrkevler/codedock-ui-boilerplate)
+Modular web application boilerplate built with HTML5, Tailwind CSS and JavaScript. Designed with site-in-site architecture enabling seamless module integration for educational platforms, knowledge bases and documentation systems. Features: accessibility settings with theme switching (light/dark), 6 changeable color schemes, font size control, contrast adjustment and dynamic content loading with reusable components.
+
+🌐 [Check the demo](https://codedock-ui.netlify.app)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Accessibility](https://img.shields.io/badge/Accessibility-A11y-1DB954)
+![License](https://img.shields.io/badge/License-MIT-blue)
+![Repo Size](https://img.shields.io/github/repo-size/mrkevler/codedock-ui-boilerplate)
+![Last Commit](https://img.shields.io/github/last-commit/mrkevler/codedock-ui-boilerplate)
+[![Buy Me a Coffee](https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-yellow)](https://buymeacoffee.com/mrkevler)
+
+---
+
+### [Agencja Horyzont 🎬](https://github.com/mrkevler/agencja-horyzont)
+Professional website for Agencja Horyzont, a video production agency from Bydgoszcz, Poland specializing in wedding videography and corporate video production since 2002. Built with HTML5, CSS3 and JavaScript for optimal performance and SEO. Features: bilingual support (PL/EN), responsive mobile-first design, integrated YouTube video portfolio, GDPR compliant cookie system, complete SEO optimization with Schema.org markup and modern UI with smooth animations.
+
+🌐 [Visit website](https://agencjahoryzont.com/)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![GDPR](https://img.shields.io/badge/GDPR-Compliant-green)
+![License](https://img.shields.io/badge/License-Proprietary-red)
+![Repo Size](https://img.shields.io/github/repo-size/mrkevler/agencja-horyzont)
+![Last Commit](https://img.shields.io/github/last-commit/mrkevler/agencja-horyzont)
+[![Buy Me a Coffee](https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-yellow)](https://buymeacoffee.com/mrkevler)
+
+---
+
 ### [Fullstack Auth Kit 💫](https://github.com/mrkevler/fullstack-auth-kit)
 Modern full-stack authentication starter featuring JWT + GitHub OAuth 2.0. Built with React 19, Express.js 5, MongoDB 8 and Docker. Includes secure user registration, social login integration, responsive UI with Tailwind CSS 4 and production-ready monorepo architecture.
 
