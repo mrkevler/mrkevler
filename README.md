@@ -159,22 +159,6 @@ Interactive forms collection showcasing modern form design patterns built with H
 
 ---
 
-### [HTML-CSS Sample Site 🌐](https://github.com/mrkevler/html-css-sample-site)
-A simple and responsive multi-section website built with pure HTML and CSS. Perfect as a starter template or for educational purposes.
-
-🌐 [Check the demo](https://mrkevler.github.io/html-css-sample-site/)
-
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![Google Fonts](https://img.shields.io/badge/Google%20Fonts-Open%20Sans-4285F4?logo=googlefonts&logoColor=white)
-![License](https://img.shields.io/badge/License-CC%20BY--NC-blue)
-![Repo Size](https://img.shields.io/github/repo-size/mrkevler/html-css-sample-site)
-![Last Commit](https://img.shields.io/github/last-commit/mrkevler/html-css-sample-site)
-[![Buy Me a Coffee](https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-yellow)](https://buymeacoffee.com/mrkevler)
-
----
-
 ### [Sample Landing Page 💫](https://github.com/mrkevler/sample-landing-page)
 This is a sample landing page built with HTML, CSS and JavaScript. It contains a responsive design, vertical navigation bar, featuring landing page, signup and signin forms.
 
