@@ -51,9 +51,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" height="30" />
   <img src="https://cdn.worldvectorlogo.com/logos/proxmox.svg" alt="Proxmox" height="30" />
   <img src="https://cdn.worldvectorlogo.com/logos/vmware-1.svg" alt="VMware" height="30" style="color:#607078" />
-  
-  <!-- Shell -->
- <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAACXElEQVRoge2YQU7DMBBF/0g0F1hxAC6A1C1SV0jcgQN0g1QkLtAF3QN3QOICgFg0C1YsWLHqAqRkGg9x4iSdJv9CImURezJ+zpvx2I5SqVSq/w4BmAE4A3AIYF+u1wDmAF4AXAN4aNPAKYCbNvXr9A7gRkzV0gXw0KZRk+4AdGqM9gD8tG1Q1xRAt8LkXdsGdU0AdCpM3rZtUNcEQKfC5GXbBnWNAXQqTF60bVDXGECnwuR52wZ1jQB0KkyetW1Q1whAp8LkadsGdY0AdCpMnrRtUNcIQKfC5HHbBnWNAHQqTB61bVDXCECnwuRh2wZ1jQB0Kkz22zaoawSgU2Fyv22DukYAOhUm99o2qGsEoFNhcrttg7pGADoVJjfbNqhrBKBTYXKjbYO6RgA6FSbX2zaoawSgU2FyrW2DukYAOhUmV9s2qGsEoFNhcrltg7pGADoVJpfaNqhrBKBTYXKxbYO6RgA6FSYX2jaoawSgU2Fyvm2DukYAOhUm59o2qGsEoFNhcrZtg7pGADoVJmfaNqhrBKBTYXK6bYO6RgA6FSan2jaoawSgU2Fysm2DukYAOhUmJ9o2qGsEoFNhcqxtg7pGADoVJkfbNqhrBKBTYXKkbYO6RgA6FSaH2zaoawSgU2FyqG2DukYAOhUmB9s2qGsEoFNhsr9tg7pGADoVJvvaNqhrBKBTYbK3bYO6RgA6FSZ72jaoawSgU2Gyu22DukYAOhUmu9o2qGsEoFNhsrNtg7pGADoVJjvaNqhrBKBTYbK9bYO6RgA6FSbb2jaoawSgU2GytW2DukYAOhUmW9o2qGsEoFNhsrltg7pGADoVJpvaNqhrBKBTYbKxbYO6RgA6FSYb2jaoawSgU2Gyvm2DukYAOhUm69o2qGsEoFNhsrZtg7pGADoVJmvaNqhrBKBTYbK6bYO6RgA6FSar2jaoawSgU2Gysm2DukYAOhUmK9o2qGsEoFNhsrxtg7pGADoVJsvaNqhrBKBTYbK0bYO6RgA6FSZL2jaoawSgU2Gy+Cv0C+ATwKf8fW3bUKVSqX7rF4WgBp1S/e3dAAAAAElFTkSuQmCC" alt="Oh My Zsh" height="30" />
 
  <!-- AI Tools -->
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" height="30" />
