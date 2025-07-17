@@ -2,12 +2,12 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A259FF&center=false&vCenter=false&width=435&lines=Bartosz+Sergot" alt="Bartosz Sergot"  />
 
-**Full-Stack Web & Python Developer | Prompt Engineer | DevSecOps | Admin**
+**Full-Stack Developer | Prompt Engineer | DevSecOps | Admin**
 
 
 ## 📊 [![Follow](https://img.shields.io/github/followers/mrkevler?label=Follow&style=social)](https://github.com/mrkevler?tab=followers) ![Repositories](https://img.shields.io/badge/dynamic/json?label=Repositories&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmrkevler) ![Profile Views](https://komarev.com/ghpvc/?username=mrkevler&label=Profile%20Views&color=blue) ![Last Commit](https://img.shields.io/github/last-commit/mrkevler/mrkevler?label=Last%20Update)
 
-🔐 I specialize in building secure, scalable web applications and AI-driven tools. With over a decade of experience in cybersecurity and software development, I bring a comprehensive skill set to every project.
+🔐 I specialize in building secure, scalable web applications and AI-driven tools. With over a decade of experience in software development, I bring a comprehensive skill set to every project.
 
 ---
 
