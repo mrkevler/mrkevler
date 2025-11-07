@@ -32,51 +32,6 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.0-06B6D4?logo=tailwindcss&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5.2-7952B3?logo=bootstrap&logoColor=white)
 
-### 🛠️ Tools & Technologies
-<p>
-  <!-- Version control -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="30" />
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" height="30" />
-  
-  <!-- IDE -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" height="30" />
-  <img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" alt="PyCharm" height="30" />
-  
-  <!-- Databases -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="30" />
-  
-  <!-- Containers & virtualization -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" height="30" />
-  <img src="https://cdn.worldvectorlogo.com/logos/proxmox.svg" alt="Proxmox" height="30" />
-  <img src="https://cdn.worldvectorlogo.com/logos/vmware-1.svg" alt="VMware" height="30" style="color:#607078" />
-
- <!-- AI Tools -->
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" height="30" />
-  <img src="https://ollama.com/public/ollama.png" alt="Ollama" height="30" style="background-color:white;padding:2px;border-radius:4px;" />
-  <img src="https://cdn.worldvectorlogo.com/logos/openai-1.svg" alt="OpenAI" height="30" />
-  <img src="https://lmstudio.ai/favicon.ico" alt="LM Studio" height="30" />
-  
-  <!-- Productivity -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="Notion" height="30" />
-  <img src="https://obsidian.md/images/obsidian-logo-gradient.svg" alt="Obsidian" height="30" />
-
-<!-- Monitoring -->
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" height="30" />
-</p>
-
-
-### 💻 Operating Systems
-<p>
-  <img src="https://logos-world.net/wp-content/uploads/2020/04/Apple-Logo.png" alt="macOS" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" alt="Debian" height="30" />
-  <img src="https://www.kali.org/images/kali-dragon-icon.svg" alt="Kali Linux" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" alt="Red Hat" height="30" />
-  <img src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" alt="Ubuntu" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" alt="CentOS" height="30" />
-</p>
-
 ---
 
 ## 📫 Contact Me
