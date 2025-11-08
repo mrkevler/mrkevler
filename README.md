@@ -68,6 +68,16 @@ I'm always open to new challenges and collaborations. Whether you're looking for
 
 ## 📂 Featured Project
 
+### [TwójSkup24 🚗](https://github.com/mrkevler/twojskup24)
+Modern website for **TwójSkup24**, a car buying and vehicle scrapping service based in Bydgoszcz and Toruń, Poland. Built with **HTML5**, **TailwindCSS** and **Vanilla JavaScript**, fully **SEO optimized**, **GDPR v2 compliant**, and designed for **fast performance** and **mobile-first responsiveness**.
+
+🌐 [Visit website](https://twojskup24.pl)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![SEO](https://img.shields.io/badge/SEO-Optimized-4CAF50) ![GDPR](https://img.shields.io/badge/GDPR-v2_Compliant-2196F3) ![License](https://img.shields.io/badge/License-Proprietary-red) ![Repo Size](https://img.shields.io/github/repo-size/mrkevler/twojskup24) ![Last Commit](https://img.shields.io/github/last-commit/mrkevler/twojskup24) [![Buy Me a Coffee](https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-yellow)](https://buymeacoffee.com/mrkevler)
+
+---
+
+
 ### [Learningoo 🦩](https://github.com/mrkevler/learningoo) *(in development)*
 Modern full-stack online course platform built as a monorepo with React 18, Express.js 5, MongoDB 7 and TypeScript. Complete Learning Management System featuring course creation & management, rich content editor with drag-and-drop lesson builder, tiered licensing system, credit-based payment transactions, admin dashboard with analytics and multi-role support for students, tutors and administrator.
 
