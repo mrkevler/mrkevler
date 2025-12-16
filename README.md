@@ -136,6 +136,9 @@ I'm always open to new challenges and collaborations. Whether you're looking for
 
 ---
 
+## 📂 Featured Project
+
+
 ### [Prompt Manager 🧠](https://github.com/mrkevler/prompt-manager)
 A lightweight desktop **Prompt Manager** for **macOS** and **Windows**. Organize prompts using a clear structure (**Main Category → Category → Action**), import libraries via **CSV**, edit entries, search instantly and **click-to-copy** to clipboard. Built with **Electron + React** with dark/light themes and WCAG-friendly accessibility.
 
@@ -147,12 +150,8 @@ A lightweight desktop **Prompt Manager** for **macOS** and **Windows**. Organize
 ![Last Commit](https://img.shields.io/github/last-commit/mrkevler/prompt-manager)
 ![License](https://img.shields.io/badge/License-EULA-orange)
 
-🔗 Repo: https://github.com/mrkevler/prompt-manager
-
 
 ---
-
-## 📂 Featured Project
 
 ### [TwójSkup24 🚗](https://github.com/mrkevler/twojskup24)
 Modern website for **TwójSkup24**, a car buying and vehicle scrapping service based in Bydgoszcz and Toruń, Poland. Built with **HTML5**, **TailwindCSS** and **Vanilla JavaScript**, fully **SEO optimized**, **GDPR v2 compliant**, and designed for **fast performance** and **mobile-first responsiveness**.
