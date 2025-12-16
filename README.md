@@ -140,6 +140,8 @@ I'm always open to new challenges and collaborations. Whether you're looking for
 ### [Prompt Manager 🧠](https://github.com/mrkevler/prompt-manager)
 A lightweight desktop **Prompt Manager** for **macOS** and **Windows**. Organize prompts using a clear structure (**Main Category → Category → Action**), import libraries via **CSV**, edit entries, search instantly and **click-to-copy** to clipboard. Built with **Electron + React** with dark/light themes and WCAG-friendly accessibility.
 
+⬇️ Download: https://github.com/mrkevler/prompt-manager/releases/tag/v1.0.2-beta
+
 ![Electron](https://img.shields.io/badge/Electron-App-47848F?logo=electron&logoColor=white)
 ![React](https://img.shields.io/badge/React-UI-61DAFB?logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-Bundler-646CFF?logo=vite&logoColor=white)
