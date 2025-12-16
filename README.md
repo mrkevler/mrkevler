@@ -66,8 +66,6 @@ I'm always open to new challenges and collaborations. Whether you're looking for
 
 ---
 
-## 📂 Featured Project
-
 # 👋 Hi, I'm 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A259FF&center=false&vCenter=false&width=435&lines=Bartosz+Sergot" alt="Bartosz Sergot"  />
@@ -136,7 +134,7 @@ I'm always open to new challenges and collaborations. Whether you're looking for
 
 ---
 
-## 📂 Featured Project
+## 📂 Featured Projects
 
 
 ### [Prompt Manager 🧠](https://github.com/mrkevler/prompt-manager)
